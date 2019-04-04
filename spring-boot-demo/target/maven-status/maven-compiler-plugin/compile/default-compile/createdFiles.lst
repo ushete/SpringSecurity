@@ -1,0 +1,10 @@
+com\concretepage\config\SecurityConfig.class
+com\concretepage\service\UserInfoService.class
+com\concretepage\MyApplication.class
+com\concretepage\entity\UserInfo.class
+com\concretepage\dao\IUserInfoDAO.class
+com\concretepage\service\IUserInfoService.class
+com\concretepage\entity\Article.class
+com\concretepage\controller\UserInfoController.class
+com\concretepage\dao\UserInfoDAO.class
+com\concretepage\config\MyAppUserDetailsService.class
